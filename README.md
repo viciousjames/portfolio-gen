@@ -1,1 +1,1 @@
-# This code is used to create portfolios with python with API data from yfinance (Yahoo Finance), and creates graphs and charts to describe the data. Regression and out-of-sample regressions are also covered in the code.
+# This code is used to create portfolios with python with API data from yfinance (Yahoo Finance), and creates graphs and charts to describe the data. OLS Regression and out-of-sample regressions are also covered in the code.
