@@ -1,1 +1,1 @@
-# Behavioural-Finance
+# This code is used to create portfolios with python with API data from yfinance (Yahoo Finance), and creates graphs and charts to describe the data. Regression and out-of-sample regressions are also conducted in the code.
